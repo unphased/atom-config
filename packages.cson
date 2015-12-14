@@ -1,0 +1,12 @@
+packages: [
+  "ex-mode"
+  "highlight-column"
+  "highlight-line"
+  "highlight-selected"
+  "minimap"
+  "minimap-highlight-selected"
+  "package-sync"
+  "pigments"
+  "regex-tester"
+  "vim-mode"
+]

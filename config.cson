@@ -1,0 +1,39 @@
+"*":
+  editor:
+    invisibles: {}
+    fontSize: 11
+    lineHeight: 1.3
+    backUpBeforeSaving: true
+    showInvisibles: true
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabLength: 4
+    zoomFontWhenCtrlScrolling: true
+  core: {}
+  "exception-reporting":
+    userId: "55fce464-929f-b927-6118-7b409036dd1c"
+  welcome:
+    showOnStartup: false
+  pigments: {}
+  minimap:
+    scrollAnimation: true
+    displayMinimapOnLeft: true
+    plugins:
+      "highlight-selected": true
+  "highlight-column":
+    opacity: 0.05
+  "highlight-line":
+    enableSelectionBorder: true
+    underline: "dashed"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+    squashDirectoryNames: true
+  "markdown-preview": {}
+  tabs:
+    enableVcsColoring: true
+    tabScrolling: true
+    usePreviewTabs: true
+  whitespace:
+    removeTrailingWhitespace: false
+    ignoreWhitespaceOnlyLines: true
+    ensureSingleTrailingNewline: false
